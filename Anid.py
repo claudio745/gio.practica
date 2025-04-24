@@ -29,9 +29,23 @@ def log_info(message):
     print(message)
     logging.info(message)
 
-# Configuración del WebDriver
+
+from selenium.webdriver.chrome.service import Service
+
+
+chromium_path = "/usr/bin/chromium-browser"
+chromedriver_path = "/usr/lib/chromium-browser/chromedriver"
+
 options = webdriver.ChromeOptions()
-driver = webdriver.Chrome(options=options)
+options.binary_location = chromium_path
+options.add_argument("--headless")  
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--window-size=1920x1080")
+
+service = Service(executable_path=chromedriver_path)
+driver = webdriver.Chrome(service=service, options=options)
 wait = WebDriverWait(driver, 10)
 
 def limpiar_fecha(texto):
