@@ -7,6 +7,7 @@
 
 
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -30,11 +31,11 @@ def log_info(message):
     logging.info(message)
 
 
-from selenium.webdriver.chrome.service import Service
+
 
 
 chromium_path = "/usr/bin/chromium-browser"
-chromedriver_path = "/usr/lib/chromium-browser/chromedriver"
+chromedriver_path = "/usr/bin/chromedriver"
 
 options = webdriver.ChromeOptions()
 options.binary_location = chromium_path
