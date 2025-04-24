@@ -30,10 +30,6 @@ def log_info(message):
     print(message)
     logging.info(message)
 
-
-
-
-
 chromium_path = "/usr/bin/chromium-browser"
 chromedriver_path = "/usr/bin/chromedriver"
 
@@ -57,9 +53,11 @@ try:
     url = "https://anid.cl/concursos/"
     driver.get(url)
     log_info(f"Solicitando datos desde: {url}")
+    time.sleep(5)
 
     def verificar_checkbox_abierto():
         try:
+            wait.until(EC.presence_of_element_located((By.XPATH, "//input[contains(@class, 'jet-checkboxes-list__input')]")))
             checkbox = driver.find_element(By.XPATH, "//input[@class='jet-checkboxes-list__input' and @value='Abierto']")
             if not checkbox.is_selected():
                 log_info("Activando checkbox 'Abierto'...")
