@@ -1,0 +1,242 @@
+[
+    {
+        "nombre": "Fondo de las Artes Escénicas: Convocatoria Plan de Fomento Disciplinar - Laboratorio de Creación Escénica para la Narración Oral",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/fae-fomentodisiplinar-2025/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  19-03-2025   Fin:  24-04-2025",
+        "montos": "Beneficios"
+    },
+    {
+        "nombre": "Fondo Audiovisual: Programa de Apoyo para la participación en Instancias Competitivas y Formativas Internacionales 2025 - Segundo Llamado",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/audiovisual-instancias-competitivas-formativas/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  08-04-2025   Fin:  24-04-2025",
+        "montos": "Entre 1.500.000 y 3.800.000"
+    },
+    {
+        "nombre": "Área Artesanía: Convocatoria Premio Maestra y Maestro Artesano 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/premio-maestro-artesano/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  02-04-2025   Fin:  28-04-2025",
+        "montos": "$2.500.000"
+    },
+    {
+        "nombre": "FONDO PARA VIVIR MEJOR",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Subsecretaría de Evaluación Social - SUBEVASO",
+        "link": "https://fondos.gob.cl/ficha/subevaso/fondo-para-vivir-mejor/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  28-03-2025   Fin:  28-04-2025",
+        "montos": "Hasta $20.000.000"
+    },
+    {
+        "nombre": "FONDO DE FOMENTO DE MEDIOS DE COMUNICACIÓN SOCIAL REGIONALES, PROVINCIALES Y COMUNALES (FFMCS)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio Secretaría General de Gobierno",
+        "link": "https://fondos.gob.cl/ficha/segegob/ffmcs/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  10-03-2025   Fin:  29-04-2025",
+        "montos": "Hasta $5.500.000"
+    },
+    {
+        "nombre": "PAMMA Equipa 2025 / Equipamiento para la Pequeña Minería",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de Minería",
+        "link": "https://fondos.gob.cl/ficha/minmineria/pamma-equipa/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  09-04-2025   Fin:  29-04-2025",
+        "montos": "$5.000.000"
+    },
+    {
+        "nombre": "Programa de Promoción y Fortalecimiento del Trabajo Cultural: Fomento al Primer Empleo Joven en Cultura para Personas Naturales 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/empleojoven-cultura/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  07-04-2025   Fin:  30-04-2025",
+        "montos": "No aplica"
+    },
+    {
+        "nombre": "Fondo de la Música: 4to Concurso de Composición de Obras Musicales Roberto Parra Sandoval.",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/cco-roberto-parra-2025/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  27-03-2025   Fin:  02-05-2025",
+        "montos": "Entre $2.000.000 y $6.000.000"
+    },
+    {
+        "nombre": "FONDO DE FORTALECIMIENTO DE ORGANIZACIONES DE INTERÉS PÚBLICO (FFOIP)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio Secretaría General de Gobierno",
+        "link": "https://fondos.gob.cl/ficha/segegob/ffoip/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  07-03-2025   Fin:  02-05-2025",
+        "montos": "Entre $2.000.000 hasta $10.000.000"
+    },
+    {
+        "nombre": "Fondo del Libro y la Lectura: Fomento a la Industria – Modalidad de Circulación Nacional en Ferias del Libro 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/fll-feriaslibro2025/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  07-04-2025   Fin:  07-05-2025",
+        "montos": "$5.000.000"
+    },
+    {
+        "nombre": "Fondo del Libro y la Lectura: Apoyo a la Traducción de fragmentos de obras para la promoción en el exterior 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/fll-traduccion_obras-2025/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  09-04-2025   Fin:  09-05-2025",
+        "montos": "$4.000.000"
+    },
+    {
+        "nombre": "Fondo del Libro y la Lectura: Convocatoria Premios Literarios 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/premiosliterarios-2025/",
+        "beneficiarios": "Persona Natural",
+        "fechas": "Inicio:  25-03-2025   Fin:  13-05-2025",
+        "montos": "Entre $350.000 y $8.660.000"
+    },
+    {
+        "nombre": "FONDO DE FORTALECIMIENTO DE ORGANIZACIONES PATRIMONIALES (FFOP) 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional del Patrimonio Cultural - SERPAT",
+        "link": "https://fondos.gob.cl/ficha/serpat/organizaciones-patrimoniales-ffop/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  15-04-2025   Fin:  14-05-2025",
+        "montos": "$65.000.000"
+    },
+    {
+        "nombre": "Fondo Concursable SERNAC para el Financiamiento de Iniciativas de Asociaciones de Consumidores. Segundo Llamado 2025",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional del Consumidor (SERNAC)",
+        "link": "https://fondos.gob.cl/ficha/sernac/fcac/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  17-04-2025   Fin:  16-05-2025",
+        "montos": "Entre $3.000.000 a $75.000.000"
+    },
+    {
+        "nombre": "FRPD - CONCURSO INNOVACIÓN, COMPETITIVIDAD, CIENCIA Y TECNOLOGÍA GORE ANTOFAGASTA",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Antofagasta",
+        "link": "https://fondos.gob.cl/ficha/goreantofagasta/frpd2025antofagasta/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  16-04-2025   Fin:  16-05-2025",
+        "montos": "Entre $1.000.000.000 y $6.500.000.000"
+    },
+    {
+        "nombre": "FRPD - FORTALECIMIENTO DE CAPITAL HUMANO - GORE ANTOFAGASTA",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Gobierno Regional de Antofagasta",
+        "link": "https://fondos.gob.cl/ficha/goreantofagasta/frpd-fortaleciemientocapitalhumano/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  16-04-2025   Fin:  16-05-2025",
+        "montos": "Entre $1.000.000 y $300.000.000"
+    },
+    {
+        "nombre": "FONDO CONCURSABLE 2025 - PROGRAMA DE GESTIÓN DEL RIESGO DE DESASTRES",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional de Prevención y Respuesta ante Desastres - SENAPRED",
+        "link": "https://fondos.gob.cl/ficha/senapred/programagrd/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  14-04-2025   Fin:  30-05-2025",
+        "montos": "$800.000.000"
+    },
+    {
+        "nombre": "FONDO PARA LA EQUIDAD DE GÉNERO (FEG)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional de la Mujer y  Equidad de Género - SERNAMEG",
+        "link": "https://fondos.gob.cl/ficha/sernameg/equidad-de-genero/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  07-04-2025   Fin:  04-06-2025",
+        "montos": "Hasta $3.000.000"
+    },
+    {
+        "nombre": "FONDO CONJUNTO DE COOPERACIÓN CHILE- MÉXICO",
+        "estado": "ABIERTO",
+        "ubicacion": "Internacional",
+        "origen": "Agencia Chilena de cooperacion internacional para el desarrollo (AGCID)",
+        "link": "https://fondos.gob.cl/ficha/agcid/cocch-mexico/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  11-04-2025   Fin:  30-06-2025",
+        "montos": "Hasta USD$250.000 por proyecto"
+    },
+    {
+        "nombre": "MI TAXI ELÉCTRICO ATACAMA",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Ministerio de Energía",
+        "link": "https://fondos.gob.cl/ficha/minenergia/mte-atacama/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  30-04-2024   Fin:  30-10-2025",
+        "montos": "Hasta $16.000.000"
+    },
+    {
+        "nombre": "MI TAXI ELÉCTRICO O'HIGGINS",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Ministerio de Energía",
+        "link": "https://fondos.gob.cl/ficha/minenergia/mte-ohiggins/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  13-03-2024   Fin:  30-10-2025",
+        "montos": "Hasta $16.000.000"
+    },
+    {
+        "nombre": "MI TAXI ELÉCTRICO BÍOBÍO",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Ministerio de Energía",
+        "link": "https://fondos.gob.cl/ficha/minenergia/mte-biobio/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  30-04-2024   Fin:  30-10-2025",
+        "montos": "Hasta $16.000.000"
+    },
+    {
+        "nombre": "MI TAXI ELÉCTRICO ANTOFAGASTA",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Ministerio de Energía",
+        "link": "https://fondos.gob.cl/ficha/minenergia/mte-antofagasta/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  26-03-2024   Fin:  30-10-2025",
+        "montos": "Hasta $16.000.000"
+    },
+    {
+        "nombre": "Programa Reconocimiento de Recursos y/o Reservas y Planificación Minera",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Empresa Nacional de Minería (ENAMI)",
+        "link": "https://fondos.gob.cl/ficha/enami/rr/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  06-01-2025   Fin:  31-10-2025",
+        "montos": "Hasta US$ 250.000"
+    }
+]
