@@ -10,6 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Cargar datos iniciales
   cargarTodosLosDatos();
+  reiniciarTemporizadorInactividad();
+  eventosInactividad.forEach(evento => {
+    window.addEventListener(evento, reiniciarTemporizadorInactividad);
+  });
 
   // Manejar navegación con botones del navegador
   window.addEventListener('popstate', () => {
